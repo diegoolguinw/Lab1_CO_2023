@@ -1,0 +1,14 @@
+# Starting point file.
+# This file contains the values of the initial points
+# for variable mass
+
+# Type of initialization :
+linear
+
+# Number of interpolation points :
+3
+
+# Interpolation points for the starting point :
+0 0.1
+0.13671875 0.125754060324826
+1 0.1

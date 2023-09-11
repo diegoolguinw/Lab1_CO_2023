@@ -1,0 +1,4 @@
+C:/Bocop-2.2.1/Labs/Lab1/ex73/build/CMakeFiles/CORE.dir
+C:/Bocop-2.2.1/Labs/Lab1/ex73/build/CMakeFiles/edit_cache.dir
+C:/Bocop-2.2.1/Labs/Lab1/ex73/build/CMakeFiles/bocop.dir
+C:/Bocop-2.2.1/Labs/Lab1/ex73/build/CMakeFiles/rebuild_cache.dir

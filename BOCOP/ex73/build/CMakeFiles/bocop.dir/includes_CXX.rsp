@@ -1,0 +1,1 @@
+-IC:/Bocop-2.2.1/ThirdParty/Ipopt-3.12.12/include/coin -IC:/Bocop-2.2.1/ThirdParty/Ipopt-3.12.12/include/coin/ThirdParty -IC:/Bocop-2.2.1/ThirdParty/cppad/include -IC:/Bocop-2.2.1/Labs/Lab1/ex73/build/.. -IC:/Bocop-2.2.1/core/headers -IC:/Bocop-2.2.1/core/sources -IC:/Bocop-2.2.1/core/sources/nlp -IC:/Bocop-2.2.1/core/sources/optionalfunctions 
