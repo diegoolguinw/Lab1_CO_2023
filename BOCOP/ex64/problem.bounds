@@ -17,7 +17,7 @@
 0 2e+020 lower
 
 # Bounds for the control variables :
-0 1 both
+0 1.5 both
 
 # Bounds for the algebraic variables :
 
